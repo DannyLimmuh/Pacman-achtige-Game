@@ -1,5 +1,9 @@
 # Pacman-achtige-Game
 
+##-- Contributers:
+- Danny
+- Jesse
+
 ##-- Game idee: 
 Vrij logisch, een pacman achtige game  alle bolletjes moet pakken voor de volgende level
 
